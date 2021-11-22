@@ -20,7 +20,7 @@ PyBer is a ride-sharing app company. They required us to create a summary DataFr
 
 ## Summary
 ### Business recommendations
-In order to improve the disparities among the city types, I suggest these three recommendations.<br>
+Three business recommendations for addressing any disparities among the city types.
 
 1. There is a significant amount of rides in the urban city type. So, we should raise the fare for the urban city type. 
 2. People in rural areas mostly travel long distances. Lowering the price for the rural city could lead to an increased number of rides. 
