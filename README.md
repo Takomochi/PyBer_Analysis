@@ -7,7 +7,7 @@ PyBer is a ride-sharing app company. They required us to create a summary DataFr
 - Software: Python 3.7.10, Jupyter Notebook
 
 ## Results 
-- As we can see in the Data Frame, the urban city type has the highest number in Total rides, Total Drivers, and Total Fares. Rural city type has the lowest number in the three measurements. On the other hand, rural city type has the highest number in Average fare per ride and Average fare per driver.<br>
+- As we can see in the data frame, the urban city type has the highest number in Total rides, Total Drivers, and Total Fares. Rural city type has the lowest number in the three measurements. On the other hand, rural city type has the highest number in Average fare per ride and Average fare per driver.<br>
 
 <img src="https://user-images.githubusercontent.com/85041697/142748302-65aceb20-d1c7-4148-928b-76a29766123e.png" width=800>
 
@@ -16,7 +16,7 @@ PyBer is a ride-sharing app company. They required us to create a summary DataFr
 <img src="https://user-images.githubusercontent.com/85041697/142748385-272d9965-f392-4b11-b70b-6a13f0657073.png" width=800>
 
 
-- There is huge population difference especially between urban and rural. Urban city type has more rides and drivers because there are more people. Average fare in urban is low because people travel short distance. Conversely, rural has higher average fare because people likely to travel long distance.
+- There is a huge population difference especially between urban and rural. The urban city type has more rides and drivers because there are more people. The average fare in urban is low because people travel a short distance. Conversely, rural has higher average fare because people are likely to travel long distance.
 
 ## Summary
 ### Business recommendations
